@@ -1,0 +1,23 @@
+.payment-succes-container{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 100px;
+gap: 50px;
+color:#af3535
+}
+.tick-icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 100px;
+    background-color: #4ab94a;
+    border-radius: 50%;
+  }
+  
+  .tick-icon {
+    color: white;
+    font-size: 64px;
+  }
+ 
